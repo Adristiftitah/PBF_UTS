@@ -1,0 +1,22 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Sharp ES-T65MW",
+      "harga": 1135000,
+      "stok": "2",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "nama": "Sharp ES-T85CR",
+      "harga": 1425000,
+      "stok": "1",
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

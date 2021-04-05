@@ -1,0 +1,43 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "gambar": "1.jpg",
+            "nama": "Sharp ES-T65MW",
+            "harga": 1135000,
+            "stok": "2"
+        },
+        {
+            "id": 2,
+            "gambar": "2.jpg",
+            "nama": "Sharp ES-T85CR",
+            "harga": 1425000,
+            "stok": "1"
+        },
+        {
+            "id": 3,
+            "gambar": "3.jpg",
+            "nama": "Sharp ES-T95CR",
+            "harga": 1725000,
+            "stok": "2"
+        },
+        {
+            "id": 4,
+            "gambar": "4.jpg",
+            "nama": "Samsung WT75J8",
+            "harga": 1950000,
+            "stok": "1"
+        },
+        {
+            "id": 5,
+            "gambar": "5.jpg",
+            "nama": "Midea MTA77-P1302",
+            "harga": 1165000,
+            "stok": "2"
+        }
+    ],
+    "comments": [],
+    "profile":{
+        "name": "typicode"
+    }
+}

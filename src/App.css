@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  
+}
+.App-link {
+  color: #61dafb;
+}
+
+.Card {
+  padding-top: 10px;
+}
+.title{
+  background-color: rgb(255, 253, 253);
+  color: white;
+}
+
+.carousel {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+Table th {
+    background-color: #e6dd3b;
+    color: white;
+}
